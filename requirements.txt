@@ -1,0 +1,9 @@
+enlighten
+fonttools
+matplotlib
+numpy
+Pillow
+pycocotools
+torch
+torchvision
+tensorboard
